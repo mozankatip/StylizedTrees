@@ -181,7 +181,7 @@ Material:
     - _HeightPoMAmplitude: 2
     - _HeightTessAmplitude: 2
     - _HeightTessCenter: 0.5
-    - _Inner_Color_Amount: 0.387
+    - _Inner_Color_Amount: 0.507
     - _InvTilingScale: 1
     - _Ior: 1.5
     - _IridescenceMask: 1
@@ -249,7 +249,7 @@ Material:
     - _UVSec: 0
     - _UseEmissiveIntensity: 0
     - _UseShadowThreshold: 0
-    - _Wind_Speed: 0.5
+    - _Wind_Speed: 2
     - _Wind_Strength: 0.4
     - _ZTestDepthEqualForOpaque: 3
     - _ZTestGBuffer: 3
@@ -264,10 +264,10 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
-    - _Inner_Color: {r: 0.66608655, g: 1, b: 0, a: 1}
+    - _Inner_Color: {r: 0.002042594, g: 0.38679248, b: 0, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _Outer_Color: {r: 0, g: 0.7921569, b: 0.06696432, a: 1}
+    - _Outer_Color: {r: 0, g: 0.9245283, b: 0.08078412, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _TransmittanceColor: {r: 1, g: 1, b: 1, a: 1}

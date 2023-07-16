@@ -248,7 +248,7 @@ Material:
     - _HeightTessAmplitude: 2
     - _HeightTessCenter: 0.5
     - _Inflate: 1.44
-    - _Inner_Color_Amount: 0.561
+    - _Inner_Color_Amount: 0.5
     - _InvTilingScale: 1
     - _Ior: 1.5
     - _IridescenceMask: 1
@@ -326,8 +326,8 @@ Material:
     - _UseShadowThreshold: 0
     - _WindSpeed: 9.16
     - _WindStrength: 1
-    - _Wind_Speed: 6.8
-    - _Wind_Strength: 0.37
+    - _Wind_Speed: 2
+    - _Wind_Strength: 0.4
     - _Wind_Turbulence: -2.22
     - _WorkflowMode: 1
     - _ZTestDepthEqualForOpaque: 3
@@ -343,10 +343,10 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
-    - _Inner_Color: {r: 0, g: 0.49835408, b: 0.7830189, a: 1}
+    - _Inner_Color: {r: 0, g: 0.21434242, b: 0.78431374, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _Outer_Color: {r: 0, g: 1, b: 0.52071476, a: 1}
+    - _Outer_Color: {r: 0, g: 0.5706754, b: 1, a: 1}
     - _Rim_Color: {r: 0.3468219, g: 1, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
