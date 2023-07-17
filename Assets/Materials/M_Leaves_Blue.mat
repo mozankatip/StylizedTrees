@@ -327,7 +327,7 @@ Material:
     - _WindSpeed: 9.16
     - _WindStrength: 1
     - _Wind_Speed: 2
-    - _Wind_Strength: 0.4
+    - _Wind_Strength: 0.2
     - _Wind_Turbulence: -2.22
     - _WorkflowMode: 1
     - _ZTestDepthEqualForOpaque: 3
