@@ -1,10 +1,12 @@
 # Stylized Trees
 ## Introduction
-"Stylized Trees" is Unity URP project includes "Leaves" shader with wind animation, wind particle effects and set of fluffy trees that are ready to use with LODs. Feel free to download and use them.
+"Stylized Trees" is Unity URP project includes "Leaves" shader with wind animation, wind particle effects and set of fluffy trees that are ready to use with LODs. Feel free to download and use them in your projects.
 
-https://github.com/mozankatip/StylizedTrees/assets/47041584/04f46b8c-c1a5-47c0-bb71-545e186550bb
 
-https://github.com/mozankatip/StylizedTrees/assets/47041584/c47340de-a8eb-41d6-bb48-e5e0826fa4b3
+https://github.com/mozankatip/StylizedTrees/assets/47041584/0db3d6bb-866c-47cd-8cbb-d3f36bae3dea
+
+
+https://github.com/mozankatip/StylizedTrees/assets/47041584/cb00b9b6-542b-41b0-9c7c-e733c2d369e1
 
 
 ## Features
@@ -17,12 +19,12 @@ https://github.com/mozankatip/StylizedTrees/assets/47041584/c47340de-a8eb-41d6-b
 * **Wind Speed**
 * **Wind Strength**
 
-![ShaderSettings](https://github.com/mozankatip/StylizedTrees/assets/47041584/5204f471-b0f6-41de-9030-0fff1e3d68ce)
 
-![ShaderGraph](https://github.com/mozankatip/StylizedTrees/assets/47041584/ceab9d8e-79fd-4e5c-a3e6-e3725a9cb373)
+![Screenshot 2023-07-17 122022](https://github.com/mozankatip/StylizedTrees/assets/47041584/111e7257-8f49-4e49-878b-6ab5d601d480)
 
-https://github.com/mozankatip/StylizedTrees/assets/47041584/554f8949-9ab8-46b4-9a54-07b6ee911378
+![Screenshot 2023-07-17 122128](https://github.com/mozankatip/StylizedTrees/assets/47041584/4c684597-ae2a-4992-8344-aaecac8c63cb)
 
+https://github.com/mozankatip/StylizedTrees/assets/47041584/40f1aab8-f738-4418-baf9-090ec882fc06
 
 
 
