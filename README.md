@@ -1,6 +1,6 @@
 # Stylized Trees
 ## Introduction
-"Stylized Trees" is Unity URP project includes "Leaves" shader and set of fluffy trees that are ready to use with LODs. Feel free to download and use them.
+"Stylized Trees" is Unity URP project includes "Leaves" shader with wind animation, wind particle effects and set of fluffy trees that are ready to use with LODs. Feel free to download and use them.
 
 https://github.com/mozankatip/StylizedTrees/assets/47041584/04f46b8c-c1a5-47c0-bb71-545e186550bb
 
