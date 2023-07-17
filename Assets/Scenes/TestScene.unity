@@ -15,13 +15,13 @@ RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
   m_Fog: 0
-  m_FogColor: {r: 0.5188679, g: 0.5188679, b: 0.5188679, a: 1}
+  m_FogColor: {r: 0, g: 1, b: 0.94454384, a: 1}
   m_FogMode: 1
-  m_FogDensity: 0
+  m_FogDensity: 0.5
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
   m_AmbientSkyColor: {r: 0.9528302, g: 0.9528302, b: 0.9528302, a: 1}
-  m_AmbientEquatorColor: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 1}
+  m_AmbientEquatorColor: {r: 0.5188679, g: 0.5188679, b: 0.5188679, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
   m_AmbientMode: 1
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 410087040}
-  m_IndirectSpecularColor: {r: 0.15306427, g: 0.6026633, b: 1.0280377, a: 1}
+  m_IndirectSpecularColor: {r: 0.29793882, g: 1.0523826, b: 1.013746, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -338,7 +338,7 @@ PrefabInstance:
     - target: {fileID: 2707567891408598471, guid: 3bccdad6538a7954fbbd6bf3839dfc3c,
         type: 3}
       propertyPath: m_Name
-      value: Wind_02
+      value: PS_Wind_02
       objectReference: {fileID: 0}
     - target: {fileID: 3783090708437965976, guid: 3bccdad6538a7954fbbd6bf3839dfc3c,
         type: 3}
@@ -443,7 +443,7 @@ PrefabInstance:
     - target: {fileID: 2388234454680123247, guid: 05f39bbb16452894bbc8c1ceb11b9329,
         type: 3}
       propertyPath: m_Name
-      value: Wind_01
+      value: PS_Wind_01
       objectReference: {fileID: 0}
     - target: {fileID: 3474453200535395888, guid: 05f39bbb16452894bbc8c1ceb11b9329,
         type: 3}
@@ -595,14 +595,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
-  m_LocalRotation: {x: 0.2588191, y: 0, z: 0, w: 0.9659258}
+  m_LocalRotation: {x: 0.28234148, y: 0, z: 0, w: 0.95931405}
   m_LocalPosition: {x: 0, y: 18.5, z: -27.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 30, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 32.8, y: 0, z: 0}
 --- !u!114 &330585547
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1158,7 +1158,7 @@ PrefabInstance:
     - target: {fileID: 2388234454680123247, guid: 05f39bbb16452894bbc8c1ceb11b9329,
         type: 3}
       propertyPath: m_Name
-      value: Wind_01 (1)
+      value: PS_Wind_01 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3474453200535395888, guid: 05f39bbb16452894bbc8c1ceb11b9329,
         type: 3}
@@ -1670,7 +1670,7 @@ PrefabInstance:
     - target: {fileID: 2707567891408598471, guid: 3bccdad6538a7954fbbd6bf3839dfc3c,
         type: 3}
       propertyPath: m_Name
-      value: Wind_02 (1)
+      value: PS_Wind_02 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3783090708437965976, guid: 3bccdad6538a7954fbbd6bf3839dfc3c,
         type: 3}
